@@ -1,5 +1,5 @@
 <?php
-$animals = ["Chat", "Chien", "Souris", ""];
+$animals = ["Chat", "Chien", "Souris", "lama"];
 ?>
 
 
